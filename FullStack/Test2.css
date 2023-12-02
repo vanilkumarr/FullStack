@@ -1,0 +1,30 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:blueviolet;
+    color: aliceblue;
+    text-align: center;
+    border: 20px solid snow ;
+    border-top: blueviolet;
+    border-bottom: blueviolet;
+}
+h1{
+    padding: 25px;
+}
+h2{
+    padding: 25px;
+}
+h3{
+    padding: 25px;
+}
+p{
+    padding-left:20%;
+    padding-right:20%;
+
+}
+#sub{
+    background-color: black;
+    border: 1px solid black;
+    color:aliceblue;
+    border-radius: 10%;
+
+}

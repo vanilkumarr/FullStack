@@ -1,0 +1,41 @@
+h1{
+    font-family: 'Nova Square', sans-serif;
+    text-align: center;
+}
+.box{
+    margin: auto;
+}
+td{
+    height: 400px;
+    width: 200px;
+    border: 10px solid white;
+   
+}
+
+#one{
+    
+    background-color: #003049;
+    
+    
+}
+#two{
+
+    background-color: red;
+
+}
+
+#three{
+   
+    background-color: #F77F00;
+
+}
+#four{
+    
+    background-color: #FCBF49;
+
+}
+#five{
+    
+    background-color: #EAE2B7;
+
+}

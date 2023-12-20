@@ -19,7 +19,7 @@ box1.addEventListener('dblclick',function(){
 
 box2.addEventListener('click',function(){
     box2.textContent="X";
-})
+})  
 
 box2.addEventListener('dblclick',function(){
     box2.textContent="O";
